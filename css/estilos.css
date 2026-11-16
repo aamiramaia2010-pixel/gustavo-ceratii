@@ -1,0 +1,81 @@
+  body {
+    background-color: #FAF7F1;
+    font-family: "Berlin Sans FB", sans-serif;
+    color: #39434A;
+    margin: 40px;
+}
+
+h1 {
+    color: #496D6B;
+    font-size: 76px;
+    background-color: #F5E9E5;
+    border-radius: 10px;
+    margin: 30px;
+    font-family: "Trebuchet MS", sans-serif;
+}
+
+h2 {
+    color: #668B88;
+    background-color: #F5E9E5;
+    border-radius: 10px;
+    margin: 55px 20px 35px 20px;
+    font-size: 42px;
+    font-family: "Trebuchet MS", sans-serif;
+}
+
+h3 {
+    color: #496D6B;
+    font-size: 36px;
+    margin: 10px;
+    font-family: "Trebuchet MS", sans-serif;
+}
+
+p {
+    font-size: 25px;
+    margin: 15px 30px;
+}
+
+strong {
+    color: #D6A6A0;
+}
+
+span {
+    color: #496D6B;
+}
+
+img {
+    border-radius: 10px;
+    margin: 10px;
+}
+
+a {
+    color: #496D6B;
+    font-size: 22px;
+    margin: 10px;
+}
+
+div {
+    background-color: #F5E9E5;
+    border-radius: 10px;
+    margin: 25px;
+}
+
+footer {
+    background-color: #F5E9E5;
+    color: #39434A;
+    margin: 30px;
+    border-radius: 10px;
+}
+
+footer p {
+    font-size: 16px;
+    margin: 12px;
+}
+
+footer a {
+    font-size: 17px;
+}
+
+iframe {
+    margin: 30px;
+}
